@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning [Full Stack Development](https://www.theodinproject.com/)
 
+- 👨‍💻 My personal project [https://redwoodciviccenter.herokuapp.com/](https://redwoodciviccenter.herokuapp.com/)
+
 - 📫 How to reach me **ivankimanoos@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
