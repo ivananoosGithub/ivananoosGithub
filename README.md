@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Kim Anoos</h1>
 <h3 align="center">A passionate programmer from Philippines</h3>
 
-- 🔭 I’m currently working on [our thesis project](https://m3da1plantitteknoy.nicepage.io/Home.html)
-
-- 🌱 I’m currently learning [Full Stack Development](https://www.theodinproject.com/)
-
-- 👨‍💻 My personal project [https://redwoodciviccenter.herokuapp.com/](https://redwoodciviccenter.herokuapp.com/)
+- 🔭 I’m currently working on KYOCERA Document Solutions as a full-time software engineer.
 
 - 📫 How to reach me **ivankimanoos@gmail.com**
 
